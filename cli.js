@@ -205,7 +205,8 @@ e.on('stats', (str) => {
 })
 
 
-console.log(chalk.blue.bgRed.bold('Hello world!');
+console.log(chalk.blue.bgRed.bold('Hello world!'));
+
 module.exports = cli;
 
 // cli.horizontalLine = () => {
